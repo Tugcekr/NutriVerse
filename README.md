@@ -20,6 +20,7 @@ pip install -r requirements.txt
 
 # Setup Ollama models (required for AI functionality)
 ollama pull llama3.2:3b
+
 ollama pull llava:7b
 
 # Prepare knowledge base
