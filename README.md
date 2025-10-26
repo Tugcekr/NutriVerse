@@ -12,6 +12,7 @@ AI-powered product safety analysis and health assistant with multi-agent system.
 
 # Clone the repository
 git clone https://github.com/Tugcekr/NutriVerse.git
+
 cd NutriVerse
 
 # Install dependencies
