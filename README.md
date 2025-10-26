@@ -47,6 +47,7 @@ Ask example questions like "Can I give egg to my 6-month-old baby?"
 
 🤖 System Architecture
 Agent Overview:
+
 🔍 Vision Agent: Brand recognition from product images using LLaVA model
 
 🌐 Search Agent: Product information retrieval from OpenFoodFacts API
